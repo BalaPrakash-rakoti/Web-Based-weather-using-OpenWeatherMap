@@ -1,4 +1,4 @@
-# -weatherApp-zeotap-assignment-
+# -WeatherApp-
 Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 <img width="960" alt="image" src="/media/1.png">
 
