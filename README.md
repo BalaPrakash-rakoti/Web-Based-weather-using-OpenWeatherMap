@@ -2,9 +2,6 @@
 Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 <img width="960" alt="image" src="/media/1.png">
 
-Hosted link: https://real-time-data-processing-system-for-weather-monitor-od8v81851.vercel.app/
-# Weather App
-
 ## Description
 This Weather App provides real-time weather information for various cities using the OpenWeatherMap API. Users can search for a city to get the current weather conditions, including temperature and description. The app features a visually appealing background that changes based on the weather conditions, enhancing the user experience.
 
