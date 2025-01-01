@@ -193,3 +193,18 @@ body {
   color: rgb(229, 228, 205);
   border: none;
 }
+
+@media screen and (max-width: 400px) {
+    .container {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    header, main, footer {
+        padding: 15px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
